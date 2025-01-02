@@ -58,7 +58,7 @@ var step = 3;
 var frame = 0;
 var cactus_list = [];
 var animation;
-var v = 10;
+var v = 15;
 var v_ = 0;
 var ac = -0.98;
 var groundY = canvas.height - 100;
